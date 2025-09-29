@@ -1,7 +1,7 @@
 # 💫 About Me:
 вот моя домашка я оформила свой гитхаб спасибо досвидули<br>
 
-<img src="yaphotocka.jpg"  width="500">
+<img src="yaphotochka.jpg"  width="500">
 
 
 ## 🌐 Socials:
